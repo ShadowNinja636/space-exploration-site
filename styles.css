@@ -1,0 +1,72 @@
+body {
+    color: whitesmoke;
+    margin: 0;
+}
+
+.heading {
+    display: block;
+    text-align: center;
+
+    font-family: "Orbitron", sans-serif;
+    font-size: 25px;
+    color: #422241;
+    
+    text-shadow: 0px 0px 5px #422241;
+
+    margin-top: 70px;
+}
+
+.btn {
+    background-color: whitesmoke;
+    padding: 7px 14px;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-weight: bold;
+    color: #422241;
+    text-shadow: 0px 0px 3px #422241;
+    font-size: large;
+    
+}
+
+.center-alg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.underline {
+    border-bottom: 5px solid whitesmoke;
+}
+
+#main-logo {
+    width: 175px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+
+}
+
+.hero {
+    background-image: url("images/universe.webp");
+    background-size: cover;
+    
+    padding: 10px 0 300px 0;
+}
+
+.tnc {
+    color: #422241;
+    font-family: "Orbitron", sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    
+
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 25px;
+}
+
